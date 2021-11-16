@@ -1,0 +1,60 @@
+@media screen and (max-width: 413.98px) {
+	.position {
+		width: 242px;
+	}
+	.list_offer_viewed {
+		display: flex;
+		flex-direction: column;
+	}
+	.category_section, .social, .list_privacy {
+		flex-direction: column;
+	}
+	.list_category {
+		width: unset;
+		padding-top: 15px;
+	}
+	.social_list {
+		padding-bottom: 15px;
+	}
+	.list_privacy .text_style {
+		text-align: center;
+		padding-bottom: 10px;
+	}
+	.list_privacy .text_style:last-child {
+		padding-bottom: 0;
+	}
+	.privacy {
+		padding-top: 10px;
+    	padding-bottom: 10px;
+	}
+	.list_brands {
+		columns: 2;
+	    -webkit-columns: 2;
+	    -moz-columns: 2;
+	}
+	.list_brands li {
+		padding: 18px 18px;
+	}
+	.mail_map {
+		width: 200px;
+    	height: 258px;
+	}
+	.mail {
+		background-position: center 95%;
+		background-size: 88px 88px;
+	}
+	.list_mail {
+		width: 182px;
+	}
+	.list_mail_map {
+		padding-left: 20px;
+		top: 35%;
+	}
+	.map {
+		background-position: center 88%;
+		background-size: 100px 60px;
+	}
+	.cover_item {
+		z-index: 2;
+	}
+}

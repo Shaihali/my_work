@@ -1,0 +1,187 @@
+@media screen and (max-width: 991.98px) {
+	.header_navigation .search {
+		display: none;
+	}
+	.burger {
+		display: none;
+	}
+	.position {
+		width: 700px;
+	}
+	.text_style {
+		font-size: 10px;
+		line-height: 14px;
+	}
+	.logo h1 {
+	    margin-left: 15px;
+	    font-size: 32px;
+	    line-height: 38px;
+	    letter-spacing: 0.03em;
+	}
+	.button {
+		height: 30px;
+		width: 120px;
+		font-size: 10px;
+		line-height: 12px;
+	}
+	.search input {
+		width: 180px;
+		margin-left: 25px;
+	}
+	.back_call span {
+		font-size: 12px;
+		line-height: 14px;
+		margin-right: 25px;
+	}
+	.list_header li a {
+		font-size: 12px;
+		line-height: 14px;
+	}
+	.list_panel li a {
+		font-size: 12px;
+		line-height: 14px;
+		margin-right: 28px;
+	}
+	.header_navigation {
+		padding-top: 11px;
+		padding-bottom: 11px;
+	}
+	.search {
+		margin-bottom: 10px;
+	}
+	.cover_section {
+		height: 370px;
+	}
+	.chair-out-circle {
+		width: 524px;
+		height: 524px;
+		right: -50px;
+	}
+	.chair-inner-circle {
+		width: 412px;
+		height: 412px;
+	}
+	.chair-inner-circle img {
+		max-width: 358px;
+	}
+	.cover_item	{
+		width: 260px;
+	}
+	.cover_item h2 {
+		font-size: 30px;
+		margin-bottom: 10px;
+		letter-spacing: 0.06em;
+	}
+	.cover_item .button {
+		margin-top: 25px;
+	}
+	.panel_navigation {
+		padding-top: 10px;
+		padding-bottom: 20px;
+	}
+	.offer_section, .viewed_section {
+		padding-top: 50px;
+    	padding-bottom: 50px;
+	}
+	h3 {
+		font-size: 18px;
+		line-height: 20px;
+	}
+	.list_offer_viewed {
+		margin-top: 22px;
+	}
+	.offer_viewed_item {
+		margin-right: 20px;
+		padding: 14px 20px;
+	}
+	.offer_viewed_item img {
+		margin-bottom: 8px;
+    	max-width: 88px;
+	}
+	.price {
+		font-size: 17px;
+		line-height: 19px;
+		padding-top: 12px;
+		padding-bottom: 12px;
+	}
+	.offer_viewed_item .button {
+		width: 98px;
+		height: 28px;
+	}
+	.mail {
+		background-size: 85px 85px;
+		margin-right: 20px;
+	}
+	.map {
+		background-size: 120px 66px;
+	}
+	.mail_map {
+		width: 340px;
+    	height: 132px;
+	}
+	.list_mail {
+		width: 220px;
+	}
+	.list_mail_map {
+		padding-left: 20px;
+	}
+	.list_mail .button {
+		width: 173px;
+    	height: 26px;
+    	padding-left: 20px;
+	}
+	.mail_map h4 {
+		font-size: 14px;
+    	line-height: 14px;
+	}
+	.list_map .button {
+		height: 26px;
+	}
+	.brands_section {
+		padding-top: 50px;
+	}
+	.list_brands li {
+		padding: 26px 30px;
+	}
+	.list_brands li img {
+		max-width: 100px;
+	}
+	.category_section {
+		padding-top: 30px;
+    	padding-bottom: 29px;
+	}
+	.list_category {
+		width: 160px;
+	}
+	.category_section h4 {
+		padding-bottom: 20px;
+		font-size: 12px;
+	}
+	.category_section ul {
+		padding-top: 15px;
+	}
+	.category_section ul li a {
+		font-size: 8px;
+    	line-height: 20px;
+	}
+	.social {
+		padding-top: 27px;
+    	padding-bottom: 27px;
+	}
+	.circle_social {
+		width: 32px;
+	    height: 32px;
+	    margin-right: 12px;
+	}
+	.social_list img {
+		max-width: 15px;
+	}
+	.privacy {
+		padding-top: 18px;
+    	padding-bottom: 18px;
+	}
+	.list_privacy .text_style {
+		font-size: 8px;
+    	line-height: 12px;
+	}
+}

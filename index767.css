@@ -1,0 +1,179 @@
+@media screen and (max-width: 767.98px) {
+	.position {
+		width: 600px;
+	}
+	.list_header {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		margin-top: 76px;
+		margin-left: 16px;
+	}
+	.list_header li a {
+		font-size: 16px;
+    	line-height: 40px;
+	}
+	.list_header li::before {
+	    content: '\25ba'; /* Добавляем маркер в шестнадцатеричном формате*/
+	    padding-right: 5px; /* Расстояние от маркеров до текста */
+	    color: #f34f4f;
+	}
+	.panel_navigation .search form {
+		display: none;
+	}
+	.header_navigation {
+		background-color: #fff;
+		padding: 0;
+	}
+	.header_navigation .search {
+		display: flex;
+		justify-content: space-between;
+		margin: 0;
+		padding-top: 10px;
+	}
+	.search input {
+		width: 160px;
+		height: 20px;
+		margin: 0;
+		background-size: 15px 15px;
+		padding-left: 32px;
+	}
+	.panel_navigation .logo {
+		flex-grow: 2.5;
+	}
+	.panel_navigation .back_call {
+		flex-grow: 2;
+    	justify-content: space-between;
+	}
+	.logo img {
+		max-width: 60px;
+	}
+	.logo h1 {
+		margin-left: 10px;
+	    font-size: 27px;
+	    line-height: 24px;
+	}
+	.list_panel li a {
+		margin-right: 15px;
+	}
+	.cover_section {
+		height: 320px;
+	}
+	.list_panel li a {
+		font-size: 10px;
+    	line-height: 12px;
+	}
+	.search { 
+		margin-bottom: 2px;
+	}
+	.chair-out-circle {
+		width: 428px;
+    	height: 428px;
+	} 
+	.chair-inner-circle {
+		width: 336px;
+    	height: 336px;
+	}
+	.chair-inner-circle img {
+		max-width: 324px;
+	}
+	.mail {
+		background-size: 68px 68px;
+	}
+	.map {
+		background-size: 96px 48px;
+	}
+	.mail_map h4 {
+		    font-size: 12px;
+    	line-height: 13px;
+	}
+	.list_mail .button {
+		width: 163px;
+	    height: 24px;
+	    padding-left: 16px;
+	}
+	.button {
+		font-size: 9px;
+    	line-height: 10px;
+	}
+	.mail_map {
+		width: 290px;
+		height: 124px;
+	}
+	.text_style {
+		font-size: 9px;
+    	line-height: 12px;
+	}
+	.list_map .button {
+		height: 24px;
+	}
+	.list_brands li {
+		padding: 24px 24px;
+	}
+	.list_brands li img {
+		max-width: 90px;
+	}
+	.circle_social {
+		width: 26px;
+	    height: 26px;
+	    margin-right: 10px;
+	}
+	.social_list img {
+		max-width: 12px;
+	}
+	.menu {
+		padding-left: 8px;
+	    font-size: 14px;
+	    line-height: 16px;
+	    font-family: 'Roboto';
+	    color: #897e7e;
+	}
+	.header_navigation .header_menu {
+		display: none;
+		flex-direction: row;
+		justify-content: space-between;
+		align-items: flex-start;
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 72%;
+		background-color: #FFF;
+		z-index: 2;
+		background-image: url(./img/logo/logo.png);
+	    background-repeat: no-repeat;
+	    background-size: 60px 60px;
+	    background-position: 2% 4%;
+	}
+	.close {
+		display: block;
+		border-radius: 50%;
+	    background-color: #fff;
+	    padding: 30px 32px;
+	    border: 0;
+	    color: #939797;
+	    font-size: 20px;
+	    font-weight: 700;
+	    line-height: 20px;
+	}
+	.header_menu span {
+		display: block;
+		position: absolute;
+	    top: 28px;
+	    left: 80px;
+	    color: red;
+	    font-size: 18px;
+	    font-weight: 600;
+	    letter-spacing: 0.07em;
+	    font-family: 'Roboto';
+	}
+	.panel_menu .close {
+		display: none;
+	}
+	.search .menu, .close, .header_menu span {
+		cursor: pointer;
+	}
+	.cover_item {
+		width: 230px;
+	}
+}
